@@ -7,9 +7,9 @@ The design and structure were provided as part of the course curriculum, and I d
 
 User 1 rolls the dice. If the number is everything but not 1, it will be added to his current score.
 
-User rolls the dice again... and again... until he decides to hold the number. In this case his current score will be added to his total score.
+User 1 rolls the dice again... and again... until he decides to hold the number. In this case his current score will be added to his total score.
 
-Or the User 1 gets 1. In this case nothing will be added to his total score and another player - User 2 - gets his chance to play.
+Or User 1 gets 1. In this case nothing will be added to his total score and another player - User 2 - gets his chance to play.
 
 A player, who gets 100 points wins!
 
